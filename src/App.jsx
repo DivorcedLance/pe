@@ -1,11 +1,11 @@
 import './App.css'
-import { Button } from './components/Button'
+import Foco from './components/Foco'
 
 function App() {
 
   return (
     <>
-      <Button />
+      <Foco/>
     </>
   )
 }
