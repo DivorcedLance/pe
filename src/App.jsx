@@ -1,5 +1,5 @@
 import './App.css'
-import Foco from './components/Foco'
+import { Foco } from './components/Foco'
 
 function App() {
 
